@@ -4,5 +4,12 @@
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "git.autofetch": true,
-  "terminal.integrated.cwd": "/"
+  "terminal.integrated.cwd": "/",
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 15,
+  "window.zoomLevel": 1,
+  "sync.gist": "decbac574bf0db630103b6888c567e3f",
+  "files.associations": {
+    "\"*.json\"": "\"jsonc\""
+  },
 }
