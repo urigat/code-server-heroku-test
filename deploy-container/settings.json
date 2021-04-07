@@ -1,5 +1,7 @@
 {
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Solarized Dark",
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
   "git.postCommitCommand": "sync",
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
